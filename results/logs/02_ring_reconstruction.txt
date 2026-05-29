@@ -1,0 +1,12 @@
+GEO Object Reconstruction Lab
+Experiment 02 — Ring Reconstruction
+
+ring_min    = 0.750000000000
+ring_max    = 0.785398163397
+ring_center = 0.769998277546
+ring_width  = 0.035398163397
+
+Signatures
+three_quarters       0.750000000000
+fc                   0.774596669241
+pi_over_four         0.785398163397

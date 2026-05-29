@@ -1,0 +1,26 @@
+GEO Object Reconstruction Lab
+Experiment 04 — Redistributive Geometry
+
+Foundational law:
+A(theta) + B(theta) = 1
+
+Gap model:
+G(theta) = A(theta) * B(theta)
+G(theta) = A(theta) - A(theta)^2, when B = 1 - A
+
+Maximum redistributive gap:
+theta_max_rad       = 0.785398163397
+theta_max_deg       = 45.000000000000
+A_at_max            = 0.500000000000
+B_at_max            = 0.500000000000
+G_max               = 0.250000000000
+
+Conservation:
+conservation_error  = 2.220446049250313081e-16
+
+Angular symmetry:
+theta_left + theta_right = 90 degrees
+symmetry_error      = 2.775557561562891351e-16
+
+Interpretation:
+Starting only from A+B=1, the system produces a redistributive gap with maximum at the isotropic axis theta=pi/4. This reconstructs the first preformal GEO mathematical seed: conservation, redistribution, and angular symmetry appear before any physical object is named.

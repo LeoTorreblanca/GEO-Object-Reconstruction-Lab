@@ -1,0 +1,3 @@
+closure,Phi,alpha,alpha_target,alpha_error,interpretation
+conceptual_internal,1.88948,0.534425648366543,0.534463497024,-3.7848657456929224e-05,internal framework conceptual ring depth
+operational_reconstructed,1.8896138152117328,0.534463497024,0.534463497024,0.0,Phi reconstructed from operational alpha target

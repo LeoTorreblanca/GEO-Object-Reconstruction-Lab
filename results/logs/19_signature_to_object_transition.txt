@@ -1,0 +1,18 @@
+GEO Object Reconstruction Lab
+Experiment 19 — Signature to Object Transition
+
+Observed signatures:
+
+3/4         = 0.750000000000
+sqrt(3/5)   = 0.774596669241
+pi/4        = 0.785398163397
+
+Band structure:
+d(3/4,fc)   = 0.024596669241
+d(fc,pi/4)  = 0.010801494156
+band_width  = 0.035398163397
+band_center = 0.767699081699
+fc_offset   = 6.897587542759e-03
+
+Interpretation:
+The three recurrent signatures form a compact invariant band. Before any operator is introduced, the laboratory observes a preferred geometric region bounded by 3/4 and pi/4, with sqrt(3/5) naturally embedded inside the band. This reconstructs the historical transition from repeated numerical signatures to geometric object identification.

@@ -1,0 +1,22 @@
+GEO Object Reconstruction Lab
+Experiment 15 — Internal Operator Chain
+
+Internal chain:
+eta -> fc -> B -> Phi -> alpha -> R -> Observable
+
+eta      = 0.600000000000 | natural active partition of the reconstructed object
+fc       = 0.774596669241 | causal operational boundary sqrt(eta)
+B        = 0.400000000000 | free geometric sector 1-eta
+Phi      = 1.889480000000 | coherent transfer depth of the internal ring
+alpha    = 0.534425648367 | observable projection amplitude Phi*B/sqrt(2)
+R        = 0.843432665302 | operational transfer scale eta^(1/3)
+
+Closure equations:
+eta = 3/5
+fc = sqrt(eta)
+B = 1 - eta
+alpha = Phi * B / sqrt(2)
+R = eta^(1/3)
+
+Interpretation:
+The reconstructed object is now connected to the mature internal GEO operator chain. eta describes the natural active partition, fc its causal boundary, B the free geometric sector, Phi the coherent internal depth, alpha the projected observable amplitude, and R the operational transfer scale.

@@ -1,0 +1,7 @@
+operator,value,meaning
+eta,0.6,natural active partition of the reconstructed object
+fc,0.7745966692414834,causal operational boundary sqrt(eta)
+B,0.4,free geometric sector 1-eta
+Phi,1.88948,coherent transfer depth of the internal ring
+alpha,0.534425648366543,observable projection amplitude Phi*B/sqrt(2)
+R,0.8434326653017492,operational transfer scale eta^(1/3)

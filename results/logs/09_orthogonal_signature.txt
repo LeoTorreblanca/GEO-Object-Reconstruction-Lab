@@ -1,0 +1,12 @@
+GEO Object Reconstruction Lab
+Experiment 09 — Orthogonal Signature
+
+Complementary orientation:
+phi = 90 - theta
+
+theta_eq = 45.000000000000
+phi_eq   = 45.000000000000
+orthogonality_error = 0.000000000000000000e+00
+
+Interpretation:
+The complementary orientation remains orthogonal for all theta. Equality appears at 45 degrees, identifying the isotropic balance axis recovered through orientation rather than redistribution.

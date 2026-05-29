@@ -1,0 +1,58 @@
+GEO Object Reconstruction Lab
+Experiment 13 — Object Identification
+
+Identification criteria:
+
+[1] invariant_band
+    Original band containing 3/4, sqrt(3/5), pi/4
+    evidence: Experiment 02
+
+[1] redistributive_conservation
+    A+B=1
+    evidence: Experiments 03-04
+
+[1] isotropic_axis
+    Repeated recovery of pi/4 = 45 degrees
+    evidence: Experiments 03,04,05,09,10,11,12
+
+[1] coupling_gap
+    G=A*B reaches maximum at isotropic balance
+    evidence: Experiments 03-04
+
+[1] partial_coupling_breakdown
+    Moving away from pi/4 preserves conservation but produces imbalance
+    evidence: Experiment 05
+
+[1] circle_ellipse_transition
+    Perfect coupling maps to circle; partial coupling maps to ellipse
+    evidence: Experiment 06
+
+[1] bifocality
+    Partial coupling creates focal separation
+    evidence: Experiment 07
+
+[1] coupling_cost_bridge
+    A residual bridge grows with focal separation
+    evidence: Experiment 08
+
+[1] orthogonal_signature
+    Complementary orientation satisfies theta + phi = 90 degrees
+    evidence: Experiment 09
+
+[1] trace_balance
+    Normal and tangent traces balance at pi/4
+    evidence: Experiment 10
+
+[1] tangent_plane_origin
+    Tangent-plane coordinates cross origin at pi/4
+    evidence: Experiment 11
+
+Score:
+criteria_recovered = 11/11
+score_ratio        = 1.000000
+
+Identification:
+The reconstructed structure satisfies the minimal criteria for a single coupled geometric architecture. It contains conservation, complementarity, coupling, isotropic balance, partial-coupling breakdown, bifocality, residual bridging, orthogonal projection, trace balance, and tangent-plane crossing.
+
+GEO interpretation:
+Within the GEO research language, this architecture is identified as the geometric coupling object underlying the later GEO effective law. Its interpretation as a geometric superconductor architecture is a model-level identification, not yet an independent physical proof.

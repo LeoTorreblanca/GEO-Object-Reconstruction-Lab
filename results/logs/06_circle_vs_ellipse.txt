@@ -1,0 +1,17 @@
+GEO Object Reconstruction Lab
+Experiment 06 — Circle vs Ellipse Transition
+
+Mapping:
+coherence = 1.0  -> circle
+coherence < 1.0  -> ellipse
+
+Rows:
+coherence=1.000000 | a=1.000000 | b=1.000000 | eccentricity=0.000000 | focus_separation=0.000000 | area_ratio=1.000000
+coherence=0.970000 | a=1.000000 | b=0.970000 | eccentricity=0.243105 | focus_separation=0.486210 | area_ratio=0.970000
+coherence=0.880000 | a=1.000000 | b=0.880000 | eccentricity=0.474974 | focus_separation=0.949947 | area_ratio=0.880000
+coherence=0.750000 | a=1.000000 | b=0.750000 | eccentricity=0.661438 | focus_separation=1.322876 | area_ratio=0.750000
+coherence=0.580000 | a=1.000000 | b=0.580000 | eccentricity=0.814616 | focus_separation=1.629233 | area_ratio=0.580000
+coherence=0.250000 | a=1.000000 | b=0.250000 | eccentricity=0.968246 | focus_separation=1.936492 | area_ratio=0.250000
+
+Interpretation:
+Perfect coupling is represented by a circle: the two foci collapse into one. When coupling coherence decreases, the circle becomes an ellipse and the focal structure separates. This provides the minimal geometric bridge from isotropic coupling to bifocal partial coupling.

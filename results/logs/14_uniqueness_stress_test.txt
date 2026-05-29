@@ -1,0 +1,18 @@
+GEO Object Reconstruction Lab
+Experiment 14 — Uniqueness Stress Test
+
+Models tested:
+
+linear_single_axis: 0/11 score=0.000000
+circle_only: 1/11 score=0.090909
+ellipse_only: 3/11 score=0.272727
+orthogonal_projection_only: 4/11 score=0.363636
+redistributive_coupling_only: 5/11 score=0.454545
+reconstructed_coupled_architecture: 11/11 score=1.000000
+
+Best model:
+reconstructed_coupled_architecture
+score=1.000000
+
+Interpretation:
+Simple alternatives recover only partial subsets of the criteria. The reconstructed coupled architecture is the only tested model that recovers all criteria simultaneously. This supports the internal claim that the reconstructed object is not merely a circle, an ellipse, a linear axis, or an orthogonal projection alone, but a coupled geometric architecture combining all recovered structures.

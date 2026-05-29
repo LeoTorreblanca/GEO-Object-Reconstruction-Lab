@@ -1,0 +1,7 @@
+experiment,property,axis_deg,evidence
+03_coupling_geometry,maximum coupling gap,45.0,"A=B=0.5, G=A*B=0.25"
+04_redistributive_geometry,redistributive conservation,45.0,"A+B=1, gap maximum at pi/4"
+05_coupling_breakdown,perfect coherence,45.0,"coherence=1, imbalance=0"
+09_orthogonal_signature,orthogonal balance,45.0,theta = 90-theta
+10_shadow_trace,trace balance,45.0,S_normal=S_tangent=0.5
+11_tangent_plane_model,tangent-plane origin,45.0,"x_plane=0, y_plane=0"

@@ -1,0 +1,22 @@
+GEO Object Reconstruction Lab
+Experiment 16 — Dual Phi/Alpha Closure
+
+Shared operators:
+eta = 0.600000000000
+B   = 0.400000000000
+
+Conceptual internal closure:
+Phi_conceptual      = 1.889480000000
+alpha_conceptual    = 0.534425648367
+
+Operational reconstructed closure:
+alpha_target        = 0.534463497024
+Phi_operational     = 1.889613815212
+alpha_check         = 0.534463497024
+
+Deltas:
+Phi_delta           = 1.338152117327240376e-04
+alpha_delta         = 3.784865745692922445e-05
+
+Interpretation:
+The conceptual GEO framework value Phi=1.88948 and the operational Phi reconstructed from the alpha target are extremely close but not identical. This experiment keeps both closures separated: conceptual internal depth and operational reconstructed closure. This avoids conflating the framework approximation with the exact operational Hubble/Vacuum closure.

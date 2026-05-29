@@ -1,0 +1,7 @@
+GEO Object Reconstruction Lab
+Experiment 01 — Signature Emergence
+
+eta = 0.600000000000
+fc = 0.774596669241
+three_quarters = 0.750000000000
+pi_over_four = 0.785398163397

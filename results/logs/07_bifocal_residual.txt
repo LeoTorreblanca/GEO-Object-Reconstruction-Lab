@@ -1,0 +1,22 @@
+GEO Object Reconstruction Lab
+Experiment 07 — Bifocal Residual
+
+Interpretation:
+As coherence decreases, a single focus separates into a bifocal structure. The residual grows together with focal separation.
+
+coherence=1.000000 | left=-0.000000 | right=0.000000 | sep=0.000000 | residual=0.000000
+coherence=0.950000 | left=-0.312250 | right=0.312250 | sep=0.624500 | residual=0.050000
+coherence=0.900000 | left=-0.435890 | right=0.435890 | sep=0.871780 | residual=0.100000
+coherence=0.850000 | left=-0.526783 | right=0.526783 | sep=1.053565 | residual=0.150000
+coherence=0.800000 | left=-0.600000 | right=0.600000 | sep=1.200000 | residual=0.200000
+coherence=0.750000 | left=-0.661438 | right=0.661438 | sep=1.322876 | residual=0.250000
+coherence=0.700000 | left=-0.714143 | right=0.714143 | sep=1.428286 | residual=0.300000
+coherence=0.650000 | left=-0.759934 | right=0.759934 | sep=1.519868 | residual=0.350000
+coherence=0.600000 | left=-0.800000 | right=0.800000 | sep=1.600000 | residual=0.400000
+coherence=0.550000 | left=-0.835165 | right=0.835165 | sep=1.670329 | residual=0.450000
+coherence=0.500000 | left=-0.866025 | right=0.866025 | sep=1.732051 | residual=0.500000
+coherence=0.450000 | left=-0.893029 | right=0.893029 | sep=1.786057 | residual=0.550000
+coherence=0.400000 | left=-0.916515 | right=0.916515 | sep=1.833030 | residual=0.600000
+coherence=0.350000 | left=-0.936750 | right=0.936750 | sep=1.873499 | residual=0.650000
+coherence=0.300000 | left=-0.953939 | right=0.953939 | sep=1.907878 | residual=0.700000
+coherence=0.250000 | left=-0.968246 | right=0.968246 | sep=1.936492 | residual=0.750000

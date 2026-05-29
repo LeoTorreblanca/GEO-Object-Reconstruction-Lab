@@ -1,0 +1,16 @@
+GEO Object Reconstruction Lab
+Experiment 11 — Tangent Plane Model
+
+Definitions:
+x_plane = theta - 45 degrees
+y_plane = S_tangent - S_normal
+
+Balance point:
+theta_balance        = 45.000000000000
+phi_balance          = 45.000000000000
+x_balance            = 0.000000000000
+y_balance            = 0.000000000000
+distance_balance     = 0.000000000000000000e+00
+
+Interpretation:
+The orthogonal trace can be represented as a tangent-plane coordinate system centered at the isotropic axis. At theta=45 degrees, normal and tangent components balance and the tangent-plane trace crosses the origin. This reconstructs the tangent plane as a geometric consequence of orthogonal projection, not as an independent assumption.

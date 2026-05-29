@@ -1,0 +1,18 @@
+GEO Object Reconstruction Lab
+Experiment 08 — Coupling Cost Bridge
+
+Definition:
+coupling_cost = residual * focus_separation
+residual = 1 - coherence
+
+Key samples:
+coherence=1.000000 | focus_sep=0.000000 | residual=0.000000 | cost=0.000000 | storage=0.000000
+coherence=0.969849 | focus_sep=0.487411 | residual=0.030151 | cost=0.014696 | storage=0.010119
+coherence=0.879397 | focus_sep=0.952178 | residual=0.120603 | cost=0.114836 | storage=0.079068
+coherence=0.751256 | focus_sep=1.320021 | residual=0.248744 | cost=0.328347 | storage=0.226077
+coherence=0.600503 | focus_sep=1.599246 | residual=0.399497 | cost=0.638895 | storage=0.439898
+coherence=0.498744 | focus_sep=1.733499 | residual=0.501256 | cost=0.868927 | storage=0.598283
+coherence=0.250000 | focus_sep=1.936492 | residual=0.750000 | cost=1.452369 | storage=1.000000
+
+Interpretation:
+The bifocal structure does not only separate into two points. As coherence decreases, a coupling cost appears between the foci. This cost is interpreted here as a geometric bridge variable: a precursor to tangent-plane residual storage, before introducing shadow terminology.

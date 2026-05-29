@@ -1,0 +1,17 @@
+GEO Object Reconstruction Lab
+Experiment 10 — Shadow Trace
+
+Definitions:
+phi = 90 - theta
+S_normal  = sin(theta) * cos(phi)
+S_tangent = cos(theta) * sin(phi)
+
+Balance point:
+theta_balance       = 45.000000000000
+phi_balance         = 45.000000000000
+S_normal_balance    = 0.500000000000
+S_tangent_balance   = 0.500000000000
+trace_diff_balance  = 0.000000000000000000e+00
+
+Interpretation:
+Using the orthogonal signature phi=90-theta, two trace components are reconstructed. Their balance occurs at the isotropic axis. This creates the first minimal trace model before naming a tangent plane or assigning physical meaning to the residual.

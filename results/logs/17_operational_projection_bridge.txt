@@ -1,0 +1,27 @@
+GEO Object Reconstruction Lab
+Experiment 17 — Operational Projection Bridge
+
+Internal architecture:
+eta = 0.600000000000
+fc  = 0.774596669241
+B   = 0.400000000000
+R   = 0.843432665302
+
+Conceptual closure:
+Phi_conceptual   = 1.889480000000
+alpha_conceptual = 0.534425648367
+
+Operational closure:
+Phi_operational  = 1.889613815212
+alpha_operational= 0.534463497024
+
+Hubble bridge audit:
+H0_base          = 67.400000000000
+H0_local         = 73.040000000000
+delta_H_rel      = 8.367952522255195369e-02
+O_required       = 1.565673346982466574e-01
+H0_reconstructed = 73.040000000000
+relative_error   = 0.000000000000000000e+00
+
+Interpretation:
+The reconstructed object architecture keeps eta, fc, B and R fixed. Only the Phi/alpha level is separated into conceptual and operational closures. Using the operational alpha, the bridge reconstructs the target expansion value exactly through an explicit projection operator, without changing the reconstructed architecture.

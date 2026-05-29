@@ -1,0 +1,28 @@
+GEO Object Reconstruction Lab
+Experiment 12 — Object Reconstruction Summary
+
+Recovered convergences:
+
+03_coupling_geometry | maximum coupling gap | axis=45.000000 deg | A=B=0.5, G=A*B=0.25
+04_redistributive_geometry | redistributive conservation | axis=45.000000 deg | A+B=1, gap maximum at pi/4
+05_coupling_breakdown | perfect coherence | axis=45.000000 deg | coherence=1, imbalance=0
+09_orthogonal_signature | orthogonal balance | axis=45.000000 deg | theta = 90-theta
+10_shadow_trace | trace balance | axis=45.000000 deg | S_normal=S_tangent=0.5
+11_tangent_plane_model | tangent-plane origin | axis=45.000000 deg | x_plane=0, y_plane=0
+
+Current reconstruction status:
+
+The laboratory has reconstructed the following properties:
+- original invariant band: 3/4, sqrt(3/5), pi/4
+- redistributive conservation: A+B=1
+- maximum coupling at pi/4
+- coherence loss away from pi/4
+- circle-to-ellipse transition
+- bifocal separation under partial coupling
+- coupling cost bridge between foci
+- orthogonal signature
+- shadow trace balance
+- tangent-plane coordinate crossing
+
+Interpretation:
+Multiple independent reconstructions converge on the same isotropic axis, pi/4. The object has not yet been named as a final physical entity, but the recovered structure already satisfies the minimal requirements of a coupled geometric architecture with conservation, complementarity, projection, bifocality, and tangent-plane trace behavior.

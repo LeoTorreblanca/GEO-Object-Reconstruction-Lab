@@ -1,0 +1,27 @@
+GEO Object Reconstruction Lab
+Experiment 05 — Coupling Breakdown
+
+Reference point:
+theta0 = pi/4
+theta0_deg = 45.000000000000
+
+At isotropic coupling:
+A = 0.500000000000
+B = 0.500000000000
+G = 0.250000000000
+coherence = 1.000000000000
+imbalance = 0.000000000000
+
+Samples around pi/4:
+delta= -30 deg | theta=14.985000 | A=0.933144 | B=0.066856 | G=0.062387 | coherence=0.249547 | imbalance=0.866287 | gap_loss=0.187613
+delta= -20 deg | theta=25.020000 | A=0.821126 | B=0.178874 | G=0.146878 | coherence=0.587512 | imbalance=0.642253 | gap_loss=0.103122
+delta= -10 deg | theta=35.010000 | A=0.670846 | B=0.329154 | G=0.220812 | coherence=0.883247 | imbalance=0.341692 | gap_loss=0.029188
+delta=  -5 deg | theta=40.005000 | A=0.586738 | B=0.413262 | G=0.242476 | coherence=0.969906 | imbalance=0.173476 | gap_loss=0.007524
+delta=   0 deg | theta=45.000000 | A=0.500000 | B=0.500000 | G=0.250000 | coherence=1.000000 | imbalance=0.000000 | gap_loss=0.000000
+delta=   5 deg | theta=49.995000 | A=0.413262 | B=0.586738 | G=0.242476 | coherence=0.969906 | imbalance=0.173476 | gap_loss=0.007524
+delta=  10 deg | theta=54.990000 | A=0.329154 | B=0.670846 | G=0.220812 | coherence=0.883247 | imbalance=0.341692 | gap_loss=0.029188
+delta=  20 deg | theta=64.980000 | A=0.178874 | B=0.821126 | G=0.146878 | coherence=0.587512 | imbalance=0.642253 | gap_loss=0.103122
+delta=  30 deg | theta=75.015000 | A=0.066856 | B=0.933144 | G=0.062387 | coherence=0.249547 | imbalance=0.866287 | gap_loss=0.187613
+
+Interpretation:
+The isotropic point pi/4 gives maximum coupling coherence. Moving away from pi/4 preserves A+B=1 but introduces imbalance, gap loss, and partial coupling. This prepares the geometric transition from perfect circular coupling to an anisotropic representation.

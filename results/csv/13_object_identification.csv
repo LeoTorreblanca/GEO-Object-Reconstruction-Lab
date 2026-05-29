@@ -1,0 +1,12 @@
+criterion,description,status,evidence
+invariant_band,"Original band containing 3/4, sqrt(3/5), pi/4",1,Experiment 02
+redistributive_conservation,A+B=1,1,Experiments 03-04
+isotropic_axis,Repeated recovery of pi/4 = 45 degrees,1,"Experiments 03,04,05,09,10,11,12"
+coupling_gap,G=A*B reaches maximum at isotropic balance,1,Experiments 03-04
+partial_coupling_breakdown,Moving away from pi/4 preserves conservation but produces imbalance,1,Experiment 05
+circle_ellipse_transition,Perfect coupling maps to circle; partial coupling maps to ellipse,1,Experiment 06
+bifocality,Partial coupling creates focal separation,1,Experiment 07
+coupling_cost_bridge,A residual bridge grows with focal separation,1,Experiment 08
+orthogonal_signature,Complementary orientation satisfies theta + phi = 90 degrees,1,Experiment 09
+trace_balance,Normal and tangent traces balance at pi/4,1,Experiment 10
+tangent_plane_origin,Tangent-plane coordinates cross origin at pi/4,1,Experiment 11
