@@ -1,8 +1,13 @@
 # GEO Object Reconstruction Lab
 
-[![DOI](https://zenodo.org/badge/1253825453.svg)](https://doi.org/10.5281/zenodo.20451778)
+**DOI (Version v1.0.0):**
+https://doi.org/10.5281/zenodo.20451778
+
+**DOI (Concept Record):**
+https://doi.org/10.5281/zenodo.20451779
 
 Object reconstruction laboratory of the GEO framework.
+
 From invariant signatures (3/4, √(3/5), π/4) to a formally defined coupled geometric architecture.
 
 ## Overview
