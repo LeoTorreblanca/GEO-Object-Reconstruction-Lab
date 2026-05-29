@@ -208,9 +208,9 @@ The repository includes bridges to later GEO studies.
 
 Examples:
 
-* Hubble-related studies
-* Vacuum-related studies
-* Gravity-related studies
+* Hubble-related studies:  https://github.com/LeoTorreblanca/GEO-hidden-geometry-framework/tree/main/docs/mathematics
+* Vacuum-related studies:  https://github.com/LeoTorreblanca/GEO-Vacuum-Harmonic-Lab
+* Gravity-related studies: https://github.com/LeoTorreblanca/GEO-Gravity-Dynamics-Lab
 
 These applications are not required for the reconstruction of the object itself.
 
