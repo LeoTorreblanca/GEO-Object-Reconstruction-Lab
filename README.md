@@ -1,5 +1,10 @@
 # GEO Object Reconstruction Lab
 
+[![DOI](https://zenodo.org/badge/1253825453.svg)](https://doi.org/10.5281/zenodo.20451778)
+
+Object reconstruction laboratory of the GEO framework.
+From invariant signatures (3/4, √(3/5), π/4) to a formally defined coupled geometric architecture.
+
 ## Overview
 
 The GEO Object Reconstruction Lab reconstructs a Coupled Geometric Architecture (CGA) from recurrent geometric signatures and progressively recovered structural constraints.
